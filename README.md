@@ -1,22 +1,41 @@
-# Hello Visitor 👋
+# 👋 Hi there! I'm Srinivas Sivakumar
 
-![Greet](https://github.com/dmdhrumilmistry/dmdhrumilmistry/blob/main/.images/greet.gif?raw=True)
-
-Welcome to my GitHub! I'm **Srinivas Sivakumar**, a passionate and hands-on **Data Engineer** building pipelines, automating workflows, and making sense of complex data.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&vCenter=true&width=1000&lines=Data+Engineer+%7C+ETL+Specialist+%7C+Cloud+Practitioner;Turning+raw+data+into+actionable+insights+📊;Automating+data+pipelines+%26+analytics+💡;Passionate+about+Python%2C+Spark%2C+Snowflake%2C+AWS)
 
 ---
 
-### Are you a machine 🤖? Here's a structured dataset about me:
+## 🔍 About Me
 
-```json
-{
-  "name": "Srinivas Sivakumar",
-  "role": "Data Engineer",
-  "languages": ["Python", "R", "Bash", "Spark-SQL"],
-  "dataTools": ["Apache Spark", "Airflow", "Snowflake", "Databricks", "HDFS"],
-  "cloud": ["AWS (S3, Lambda, EC2, Redshift)", "Docker", "Ceph"],
-  "devOps": ["CI/CD", "Git", "GitLab"],
-  "email": "srinivas123.sivakumar@gmail.com",
-  "linkedin": "https://www.linkedin.com/in/srinivas-siva/",
-  "github": "https://github.com/srinivassivakumar"
-}
+🎓 MCA in Storage & Cloud Computing — Jain University, Bangalore  
+🔬 Former Research Assistant @ **Wildlife Conservation Trust**  
+🧪 Internship @ **NCBS, Bengaluru**  
+💻 Passionate about real-world data engineering, DevOps pipelines, and applied automation  
+🔁 Strong believer in “automate everything” 🛠️  
+🚀 Always looking to build smarter data pipelines that drive value
+
+---
+
+## 🧠 Tech Stack — _My Tools of the Trade_
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🧰 Skills Summary
+
+```yaml
+Languages:         Python, R, Bash, Spark-SQL
+Data Engineering:  Apache Spark, Airflow, HDFS, Databricks, Snowflake
+Cloud & DevOps:    AWS (Lambda, S3, EC2, Redshift), Docker, Ceph, Git, CI/CD
+Tools & Infra:     RStudio Shiny, GitLab, MySQL
