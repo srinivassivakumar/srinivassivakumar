@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Srinivas Sivakumar
 
-<!--
-**srinivassivakumar/srinivassivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Data Engineer** with 2 years of hands-on experience designing smart data pipelines and automating systems that turn messy data into actionable insights. I specialize in scalable, efficient data workflows using modern tools across cloud, open-source, and big data ecosystems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- 🎓 **MCA in Storage and Cloud Computing** from Jain University, Bangalore  
+- 🔬 Former Research Assistant at **Wildlife Conservation Trust**  
+- 🔬 Data Intern at **NCBS**, Bengaluru  
+- 💡 Obsessed with solving real-world problems using data, cloud infrastructure, and automation  
+- 🧠 Building projects that span **IoT, Machine Learning, ETL, and Data Visualization**
+
+---
+
+## 🛠️ Technologies & Tools
+
+```yaml
+Languages: Python, R, Bash, Spark-SQL  
+Data Engineering: Apache Spark, Airflow, Databricks, Snowflake, HDFS  
+Cloud & DevOps: AWS (S3, Lambda, EC2, Redshift), Docker, Ceph, Git, CI/CD  
+Tools: RStudio Shiny, GitLab, MySQL
