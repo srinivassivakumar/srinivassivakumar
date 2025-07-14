@@ -1,23 +1,22 @@
-# 👋 Hi there! I'm Srinivas Sivakumar
+# Hello Visitor 👋
 
-Welcome to my GitHub! I'm a passionate **Data Engineer** with 2 years of hands-on experience designing smart data pipelines and automating systems that turn messy data into actionable insights. I specialize in scalable, efficient data workflows using modern tools across cloud, open-source, and big data ecosystems.
+![Greet](https://github.com/dmdhrumilmistry/dmdhrumilmistry/blob/main/.images/greet.gif?raw=True)
 
----
-
-## 🔍 About Me
-
-- 🎓 **MCA in Storage and Cloud Computing** from Jain University, Bangalore  
-- 🔬 Former Research Assistant at **Wildlife Conservation Trust**  
-- 🔬 Data Intern at **NCBS**, Bengaluru  
-- 💡 Obsessed with solving real-world problems using data, cloud infrastructure, and automation  
-- 🧠 Building projects that span **IoT, Machine Learning, ETL, and Data Visualization**
+Welcome to my GitHub! I'm **Srinivas Sivakumar**, a passionate and hands-on **Data Engineer** building pipelines, automating workflows, and making sense of complex data.
 
 ---
 
-## 🛠️ Technologies & Tools
+### Are you a machine 🤖? Here's a structured dataset about me:
 
-```yaml
-Languages: Python, R, Bash, Spark-SQL  
-Data Engineering: Apache Spark, Airflow, Databricks, Snowflake, HDFS  
-Cloud & DevOps: AWS (S3, Lambda, EC2, Redshift), Docker, Ceph, Git, CI/CD  
-Tools: RStudio Shiny, GitLab, MySQL
+```json
+{
+  "name": "Srinivas Sivakumar",
+  "role": "Data Engineer",
+  "languages": ["Python", "R", "Bash", "Spark-SQL"],
+  "dataTools": ["Apache Spark", "Airflow", "Snowflake", "Databricks", "HDFS"],
+  "cloud": ["AWS (S3, Lambda, EC2, Redshift)", "Docker", "Ceph"],
+  "devOps": ["CI/CD", "Git", "GitLab"],
+  "email": "srinivas123.sivakumar@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/srinivas-siva/",
+  "github": "https://github.com/srinivassivakumar"
+}
