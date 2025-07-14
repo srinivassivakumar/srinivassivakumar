@@ -7,7 +7,7 @@
 ## 🔍 About Me
 
 🎓 MCA in Storage & Cloud Computing — Jain University, Bangalore  
-🔬 Former Research Assistant @ **Wildlife Conservation Trust**  
+🔬 Research Assistant @ **Wildlife Conservation Trust**  
 🧪 Internship @ **NCBS, Bengaluru**  
 💻 Passionate about real-world data engineering, DevOps pipelines, and applied automation  
 🔁 Strong believer in “automate everything” 🛠️  
