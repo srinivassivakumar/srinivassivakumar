@@ -6,9 +6,9 @@
 
 ## 🔍 About Me
 
-🎓 **MCA in Storage & Cloud Computing** — Jain University, Bangalore  
-🔬 **IT Research Assistant** @ Wildlife Conservation Trust  
-🧪 **Data Engineering Intern** @ NCBS, Bengaluru  
+🎓 MCA in Storage & Cloud Computing — Jain University, Bangalore  
+🔬 IT Research Assistant @ **Wildlife Conservation Trust**  
+🧪 Data Engineer Internship @ **NCBS, Bengaluru**  
 💻 Passionate about real-world data engineering, DevOps pipelines, and applied automation  
 🔁 Strong believer in “automate everything” 🛠️  
 🚀 Always looking to build smarter data pipelines that drive value
@@ -39,3 +39,9 @@ Languages:         Python, R, Bash, Spark-SQL
 Data Engineering:  Apache Spark, Airflow, HDFS, Databricks, Snowflake
 Cloud & DevOps:    AWS (Lambda, S3, EC2, Redshift), Docker, Ceph, Git, CI/CD
 Tools & Infra:     RStudio Shiny, GitLab, MySQL
+
+
+📫 Contact Me
+Email: srinivas123.sivakumar@gmail.com
+Phone: +91 98690 56567
+LinkedIn: linkedin.com/in/srinivas-siva
