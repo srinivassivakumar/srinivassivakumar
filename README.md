@@ -3,11 +3,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&vCenter=true&width=1000&lines=Data+Engineer+%7C+ETL+Specialist+%7C+Cloud+Practitioner;Turning+raw+data+into+actionable+insights+📊;Automating+data+pipelines+%26+analytics+💡;Passionate+about+Python%2C+Spark%2C+Snowflake%2C+AWS)
 
 ---
+
 ## 📫 Reach Out to me 
 
-Email: srinivas123.sivakumar@gmail.com
-Phone: +91 98690 56567
-LinkedIn: linkedin.com/in/srinivas-siva
+Email: srinivas123.sivakumar@gmail.com  
+Phone: +91 98690 56567  
+LinkedIn: [linkedin.com/in/srinivas-siva](https://linkedin.com/in/srinivas-siva)
 
 ---
 
