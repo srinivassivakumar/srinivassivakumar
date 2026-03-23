@@ -14,7 +14,7 @@ LinkedIn: [linkedin.com/in/srinivas-siva](https://linkedin.com/in/srinivas-siva)
 
 ## 🔍 About Me
 
-🎓 MCA in Storage & Cloud Computing — Jain University, Bangalore  
+🎓 MCA in Storage & Cloud Computing Jain University, Bangalore  
 🔬 IT Research Assistant @ **Wildlife Conservation Trust**  
 🧪 Data Engineer Internship @ **NCBS, Bengaluru**  
 💻 Passionate about real-world data engineering, DevOps pipelines, and applied automation  
