@@ -24,9 +24,9 @@ I build production-focused AI and data systems across manufacturing, fashion, ne
 
 ### Computer Vision and ML
 
-- Created fashion segmentation and apparel extraction systems: [fashion-ai-segmentation](https://github.com/srinivassivakumar/fashion-ai-segmentation), [fashionclip](https://github.com/srinivassivakumar/fashionclip), [clothesExtraction](https://github.com/srinivassivakumar/clothesExtraction).
-- Developed wildlife image recognition pipelines for individual crocodile and gharial identification: [ImageDetection](https://github.com/srinivassivakumar/ImageDetection).
-- Built predictive ML models for pulmonary fibrosis deterioration: [MLDetectionPulmonaryFibrosis](https://github.com/srinivassivakumar/MLDetectionPulmonaryFibrosis).
+- Created fashion segmentation and apparel extraction systems for wardrobe understanding and styling intelligence.
+- Developed wildlife image recognition pipelines for individual crocodile and gharial identification.
+- Built predictive ML models for pulmonary fibrosis deterioration.
 
 ### Data Engineering
 
@@ -36,10 +36,10 @@ I build production-focused AI and data systems across manufacturing, fashion, ne
 
 ### DevOps and Infrastructure
 
-- Deployed self-hosted GitLab with backup and access-control automation: [GITLab](https://github.com/srinivassivakumar/GITLab).
-- Deployed Ceph storage with Docker and OpenStack backup workflows: [Ceph](https://github.com/srinivassivakumar/Ceph).
+- Deployed self-hosted GitLab with backup and access-control automation.
+- Deployed Ceph storage with Docker and OpenStack backup workflows.
 - Built Terraform-managed AWS S3 backup infrastructure for database backups and historical data.
-- Automated RStudio/Shiny research servers with CI/CD workflows: [R-Program-Auto-Start](https://github.com/srinivassivakumar/R-Program-Auto-Start).
+- Automated RStudio/Shiny research servers with CI/CD workflows.
 
 ---
 
