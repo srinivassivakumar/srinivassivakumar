@@ -2,13 +2,20 @@
 
 ### AI/ML Engineer | Data Engineer | MLOps and DevOps Builder
 
+## Contact
+
+- Email: [srinivas123.sivakumar@gmail.com](mailto:srinivas123.sivakumar@gmail.com)
+- Phone: +91 98690 56567
+- LinkedIn: [linkedin.com/in/srinivas-siva](https://linkedin.com/in/srinivas-siva)
+- GitHub: [github.com/srinivassivakumar](https://github.com/srinivassivakumar)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=F77F00&vCenter=true&width=1000&lines=Building+AI+agents%2C+RAG+systems%2C+and+computer+vision+pipelines;Shipping+data+platforms+with+Python%2C+TypeScript%2C+Spark%2C+FastAPI%2C+PostgreSQL;Automating+cloud+infrastructure+with+AWS%2C+Docker%2C+Kubernetes%2C+Terraform%2C+GitLab+CI%2FCD)](https://git.io/typing-svg)
 
-I build practical AI systems that connect models, data pipelines, backend APIs, and cloud infrastructure. My work spans manufacturing AI agents, fashion-focused multimodal AI, network anomaly prediction, wildlife computer vision, real-time sensor data, and self-hosted research infrastructure.
+I build AI systems that connect models, data pipelines, APIs, and cloud infrastructure.
 
-**Currently:** AI Software Engineer at Mexo, building a manufacturing AI agent for production progress, machine capacity, downtime, dependencies, delivery-risk detection, and evidence-backed operational explanations.
+**Currently:** AI Software Engineer at Mexo, building a manufacturing AI agent for delivery-risk detection and operational reasoning.
 
-**Looking for:** AI Engineer, ML Engineer, Data Engineer, MLOps Engineer, Platform Engineer, and DevOps roles where I can build systems that move from prototype to production.
+**Looking for:** AI Engineer, ML Engineer, Data Engineer, MLOps Engineer, Platform Engineer, and DevOps roles.
 
 ---
 
@@ -25,11 +32,8 @@ I build practical AI systems that connect models, data pipelines, backend APIs, 
 
 | Project | What it shows | Stack / Focus |
 | --- | --- | --- |
-| [sri_otd_risk_report](https://github.com/srinivassivakumar/sri_otd_risk_report) | Operational delivery-risk reporting and manufacturing-style analytics | HTML, dashboards, risk reporting |
-| [dev-standards](https://github.com/srinivassivakumar/dev-standards) | Engineering standards and TypeScript workflow structure | TypeScript, developer tooling |
-| [fashion-ai-segmentation](https://github.com/srinivassivakumar/fashion-ai-segmentation) | Fashion image understanding and garment segmentation | Python, computer vision |
-| [fashionclip](https://github.com/srinivassivakumar/fashionclip) | Fashion search and recommendation foundations using CLIP-style embeddings | Python, CLIP, retrieval |
-| [clothesExtraction](https://github.com/srinivassivakumar/clothesExtraction) | Apparel extraction pipeline for wardrobe and styling intelligence | Python, CV pipeline |
+| [Manufacturing Risk + Dev Standards](https://github.com/srinivassivakumar/sri_otd_risk_report) / [dev-standards](https://github.com/srinivassivakumar/dev-standards) | Delivery-risk reporting, operational analytics, and reusable engineering workflow structure | HTML, TypeScript, dashboards, standards |
+| [Fashion AI Systems](https://github.com/srinivassivakumar/fashion-ai-segmentation) / [fashionclip](https://github.com/srinivassivakumar/fashionclip) / [clothesExtraction](https://github.com/srinivassivakumar/clothesExtraction) | Garment segmentation, apparel extraction, CLIP-based retrieval, and wardrobe intelligence foundations | Python, computer vision, CLIP, retrieval |
 | [GITLab](https://github.com/srinivassivakumar/GITLab) | Self-hosted GitLab setup with maintenance automation and access control | GitLab, Linux, DevOps |
 | [Ceph](https://github.com/srinivassivakumar/Ceph) | Local object/storage infrastructure with automated backup workflows | Ceph, Docker, OpenStack |
 | [Apache-Spark](https://github.com/srinivassivakumar/Apache-Spark) | Big-data processing system for biological and research datasets | Spark, ETL, data engineering |
@@ -156,12 +160,3 @@ Cloud / DevOps:
 - **Cloud Big Data Engineer Certification**, TrendyTech Insights
 - **Linux Administration Certification**, Besant Technologies
 - **Design Patent:** Light-based automatic feeder for aquarium fish
-
----
-
-## Contact
-
-- Email: [srinivas123.sivakumar@gmail.com](mailto:srinivas123.sivakumar@gmail.com)
-- Phone: +91 98690 56567
-- LinkedIn: [linkedin.com/in/srinivas-siva](https://linkedin.com/in/srinivas-siva)
-- GitHub: [github.com/srinivassivakumar](https://github.com/srinivassivakumar)
