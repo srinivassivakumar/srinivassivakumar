@@ -1,85 +1,56 @@
-# Hi, I'm Srinivas Sivakumar
+# Srinivas Sivakumar
 
-### AI/ML Engineer | Data Engineer | MLOps and DevOps Builder
+### AI/ML Engineer building agents, RAG systems, data pipelines, and cloud automation
 
-## Contact
+**Contact:** [Email](mailto:srinivas123.sivakumar@gmail.com) | [LinkedIn](https://linkedin.com/in/srinivas-siva) | [GitHub](https://github.com/srinivassivakumar) | Phone: +91 98690 56567
 
-- Email: [srinivas123.sivakumar@gmail.com](mailto:srinivas123.sivakumar@gmail.com)
-- Phone: +91 98690 56567
-- LinkedIn: [linkedin.com/in/srinivas-siva](https://linkedin.com/in/srinivas-siva)
-- GitHub: [github.com/srinivassivakumar](https://github.com/srinivassivakumar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=F77F00&vCenter=true&width=1000&lines=AI+agents+%7C+RAG+%7C+Computer+Vision+%7C+Data+Engineering;FastAPI+%7C+PostgreSQL+%7C+Spark+%7C+AWS+%7C+Docker+%7C+Kubernetes;MLOps+%7C+DevOps+%7C+Terraform+%7C+GitLab+CI%2FCD+%7C+OpenStack)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=F77F00&vCenter=true&width=1000&lines=Building+AI+agents%2C+RAG+systems%2C+and+computer+vision+pipelines;Shipping+data+platforms+with+Python%2C+TypeScript%2C+Spark%2C+FastAPI%2C+PostgreSQL;Automating+cloud+infrastructure+with+AWS%2C+Docker%2C+Kubernetes%2C+Terraform%2C+GitLab+CI%2FCD)](https://git.io/typing-svg)
+I build production-focused AI and data systems across manufacturing, fashion, networking, and wildlife conservation. My work connects **LLMs, computer vision, FastAPI, PostgreSQL, Spark, AWS, Docker, Kubernetes, Terraform, GitLab CI/CD, Ceph, and OpenStack**.
 
-I build AI systems that connect models, data pipelines, APIs, and cloud infrastructure.
+**Currently:** AI Software Engineer at Mexo, building manufacturing AI agents for delivery-risk detection, capacity analysis, downtime reasoning, and operational decision support.
 
-**Currently:** AI Software Engineer at Mexo, building a manufacturing AI agent for delivery-risk detection and operational reasoning.
-
-**Looking for:** AI Engineer, ML Engineer, Data Engineer, MLOps Engineer, Platform Engineer, and DevOps roles.
+**Open to:** AI Engineer, ML Engineer, Data Engineer, MLOps Engineer, Platform Engineer, and DevOps roles.
 
 ---
 
-## What I Bring
+## Proof of Work
 
-- **AI Engineering:** LLM integration, RAG, AI agents, multimodal AI, computer vision, model evaluation, and production-focused ML workflows.
-- **Data Engineering:** Python and TypeScript pipelines, Spark ETL, Airflow, Dagster, Snowflake, PostgreSQL, sensor data processing, reporting, and automation.
-- **MLOps and DevOps:** Docker, Kubernetes, Terraform, AWS, GitLab CI/CD, Jenkins, Linux, Ceph, OpenStack, deployment automation, and backup infrastructure.
-- **Execution style:** I like messy real-world systems: fragmented data sources, infrastructure constraints, edge devices, research workflows, and teams that need automation yesterday.
+### AI Agents and RAG
+
+- Built a manufacturing AI agent that reasons over production progress, machine capacity, downtime, dependencies, and delivery risks.
+- Built a multimodal fashion assistant using **Gemini API, FashionCLIP, CLIP, FAISS, SegFormer, and SAM** for wardrobe understanding, outfit recommendations, and shopping suggestions.
+- Built customer-issue detection, root-cause analysis, and automation workflows for network operations.
+
+### Computer Vision and ML
+
+- Created fashion segmentation and apparel extraction systems: [fashion-ai-segmentation](https://github.com/srinivassivakumar/fashion-ai-segmentation), [fashionclip](https://github.com/srinivassivakumar/fashionclip), [clothesExtraction](https://github.com/srinivassivakumar/clothesExtraction).
+- Developed wildlife image recognition pipelines for individual crocodile and gharial identification: [ImageDetection](https://github.com/srinivassivakumar/ImageDetection).
+- Built predictive ML models for pulmonary fibrosis deterioration: [MLDetectionPulmonaryFibrosis](https://github.com/srinivassivakumar/MLDetectionPulmonaryFibrosis).
+
+### Data Engineering
+
+- Built Spark ETL and research data workflows with **Databricks, Airflow, Dagster, Snowflake, and PostgreSQL**.
+- Built real-time AWS sensor data pipelines using **S3, Lambda, Airflow, and Snowflake** for Chambal River monitoring.
+- Built scraping and ingestion pipelines using **Python, TypeScript, Playwright, and Puppeteer** to collect 1,000+ fashion products per run from 10+ e-commerce websites.
+
+### DevOps and Infrastructure
+
+- Deployed self-hosted GitLab with backup and access-control automation: [GITLab](https://github.com/srinivassivakumar/GITLab).
+- Deployed Ceph storage with Docker and OpenStack backup workflows: [Ceph](https://github.com/srinivassivakumar/Ceph).
+- Built Terraform-managed AWS S3 backup infrastructure for database backups and historical data.
+- Automated RStudio/Shiny research servers with CI/CD workflows: [R-Program-Auto-Start](https://github.com/srinivassivakumar/R-Program-Auto-Start).
 
 ---
 
-## Featured Project Proof
+## Featured Repositories
 
-| Project | What it shows | Stack / Focus |
+| Focus | Repositories | Signal |
 | --- | --- | --- |
-| [Manufacturing Risk + Dev Standards](https://github.com/srinivassivakumar/sri_otd_risk_report) / [dev-standards](https://github.com/srinivassivakumar/dev-standards) | Delivery-risk reporting, operational analytics, and reusable engineering workflow structure | HTML, TypeScript, dashboards, standards |
-| [Fashion AI Systems](https://github.com/srinivassivakumar/fashion-ai-segmentation) / [fashionclip](https://github.com/srinivassivakumar/fashionclip) / [clothesExtraction](https://github.com/srinivassivakumar/clothesExtraction) | Garment segmentation, apparel extraction, CLIP-based retrieval, and wardrobe intelligence foundations | Python, computer vision, CLIP, retrieval |
-| [GITLab](https://github.com/srinivassivakumar/GITLab) | Self-hosted GitLab setup with maintenance automation and access control | GitLab, Linux, DevOps |
-| [Ceph](https://github.com/srinivassivakumar/Ceph) | Local object/storage infrastructure with automated backup workflows | Ceph, Docker, OpenStack |
-| [Apache-Spark](https://github.com/srinivassivakumar/Apache-Spark) | Big-data processing system for biological and research datasets | Spark, ETL, data engineering |
-| [R-Program-Auto-Start](https://github.com/srinivassivakumar/R-Program-Auto-Start) | RStudio/Shiny server automation for research teams | Linux, automation, research infra |
-| [MLDetectionPulmonaryFibrosis](https://github.com/srinivassivakumar/MLDetectionPulmonaryFibrosis) | Predictive ML model for pulmonary fibrosis deterioration | Python, machine learning |
-| [ImageDetection](https://github.com/srinivassivakumar/ImageDetection) | Pattern recognition for individual crocodile and gharial identification | Python, image recognition |
-| [UnderwaterSensor](https://github.com/srinivassivakumar/UnderwaterSensor) | River monitoring device that logs, stores, and transmits field data | C++, IoT, cloud data |
-
----
-
-## Recent Work
-
-**AI Software Engineer - Mexo**  
-Jun 2026 - Present
-
-- Built a manufacturing AI agent using **TypeScript, Flue, OpenRouter, and PostgreSQL** to analyze production progress, machine capacity, downtime, operational dependencies, and delivery risk.
-- Built **Terraform-managed Amazon S3 backup infrastructure** and migrated database backups plus historical data into centralized object storage.
-
-**R&D Engineer (AI) - Zybasis**  
-Dec 2025 - May 2026
-
-- Developed an AI-based bandwidth prediction model to forecast network degradation and support proactive service-impact analysis.
-- Built customer-issue detection, root-cause analysis, and workflow automation systems.
-- Engineered infrastructure data pipelines integrating CheckMK and multiple network/IOPS sources for anomaly detection.
-
-**AI/ML Engineer - MyMirro**  
-Sep 2025 - Nov 2025
-
-- Built an end-to-end multimodal AI fashion assistant that turns wardrobe images into a digital wardrobe, outfit combinations, styling recommendations, and purchase suggestions.
-- Developed CV and RAG pipelines with **Gemini API, FashionCLIP, CLIP, FAISS, SegFormer, and SAM**.
-- Deployed with **FastAPI, MLflow, Docker, Terraform, and Railway**, plus Python/TypeScript scraping pipelines using Playwright and Puppeteer for 1,000+ products per run from 10+ e-commerce sites.
-
-**Data Engineer - Wildlife Conservation Trust**  
-Sep 2024 - Jul 2025
-
-- Deployed and maintained RStudio Shiny servers with CI/CD automation using **Jenkins, Airflow, and Dagster**.
-- Built AWS pipelines using **S3, Lambda, Airflow, and Snowflake** for real-time Chambal River sensor data.
-- Developed image recognition systems and automated training/reporting pipelines for wildlife survey identification.
-- Created a GPS-free 3D tracking prototype using **Python, AWS EC2, and OpenStack**.
-
-**Data Engineering Intern - NCBS (TIFR)**  
-Jun 2023 - Aug 2024
-
-- Deployed **Ceph with Docker** and automated backup pipelines integrated into OpenStack.
-- Built PySpark ETL pipelines using **Databricks, Airflow, Snowflake, and Dagster**.
-- Deployed GitLab on OpenStack with automated backup and access-control systems.
+| AI and Fashion CV | [fashion-ai-segmentation](https://github.com/srinivassivakumar/fashion-ai-segmentation), [fashionclip](https://github.com/srinivassivakumar/fashionclip), [clothesExtraction](https://github.com/srinivassivakumar/clothesExtraction) | Segmentation, retrieval, wardrobe intelligence |
+| Operations and Standards | [sri_otd_risk_report](https://github.com/srinivassivakumar/sri_otd_risk_report), [dev-standards](https://github.com/srinivassivakumar/dev-standards) | Risk reporting, dashboards, engineering workflows |
+| DevOps and Platform | [GITLab](https://github.com/srinivassivakumar/GITLab), [Ceph](https://github.com/srinivassivakumar/Ceph), [R-Program-Auto-Start](https://github.com/srinivassivakumar/R-Program-Auto-Start) | Self-hosted infrastructure, backups, automation |
+| Data and Research Systems | [Apache-Spark](https://github.com/srinivassivakumar/Apache-Spark), [UnderwaterSensor](https://github.com/srinivassivakumar/UnderwaterSensor), [ImageDetection](https://github.com/srinivassivakumar/ImageDetection) | ETL, sensor data, field research analytics |
 
 ---
 
@@ -123,6 +94,18 @@ Jun 2023 - Aug 2024
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white"/>
 </p>
+
+---
+
+## Experience Snapshot
+
+| Role | Highlights |
+| --- | --- |
+| **AI Software Engineer - Mexo** | Manufacturing AI agent, TypeScript/OpenRouter/PostgreSQL, Terraform-managed AWS S3 backups |
+| **R&D Engineer (AI) - Zybasis** | Bandwidth prediction, anomaly detection, CheckMK/network/IOPS data pipelines |
+| **AI/ML Engineer - MyMirro** | Multimodal fashion assistant, RAG/CV pipelines, FastAPI/MLflow/Docker/Railway deployment |
+| **Data Engineer - Wildlife Conservation Trust** | RStudio Shiny CI/CD, AWS sensor pipelines, wildlife image recognition, OpenStack prototype |
+| **Data Engineering Intern - NCBS (TIFR)** | Ceph, OpenStack, GitLab deployment, PySpark ETL, Airflow/Dagster/Snowflake |
 
 ---
 
